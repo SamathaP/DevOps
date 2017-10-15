@@ -1,3 +1,7 @@
 first file in GIT
 
 first Changes 
+
+From feature branch..
+
+From feature2
